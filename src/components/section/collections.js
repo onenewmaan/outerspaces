@@ -100,13 +100,15 @@ export function Collections() {
                         <h2 style={{marginTop:'0px'}}>
                             <img src="images/web/cosmosapien_degen.gif" width="100px" alt="" style={{margin:'-15px'}} />
                         </h2>
-                        <p style={{fontSize:'13px' ,textAlign:'center', marginTop:'0px'}} >MINTING SOON
-                        <br />10K</p>
+                        <div className='btn'>
+                                        <a style={{textDecoration:'none'}} href="https://degen.outerspaces.io">MINT</a>
+                                    </div>
+                                    <p style={{fontSize:'8px' ,textAlign:'center', marginTop:'0px'}} >LOW GAS
+                            <br />OPTIMIZATION</p>
                         
                         <h2 style={{marginTop:'-5px'}}>
                             <img src="images/web/ethereum.png" width="75px" alt=""  />
-                            <p style={{fontSize:'8px' ,textAlign:'center', marginTop:'0px'}} >LOW GAS
-                            <br />OPTIMIZATION</p>
+                            
                         </h2>
                       </div>
                     </div>
