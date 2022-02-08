@@ -15,16 +15,14 @@ import { Galaxy } from './components/universe/galaxy';
 import { Wormhole } from './components/universe/wormhole';
 import { Universe } from './components/universe/universe';
 
-const Loading = () => {
-  return(
-        <div>
-          <div className='loader'>
-            <h3>Loading</h3>
-            <div className="planet"></div>
-          </div>
-      </div>
-  );
-};
+// const Loading = () => {
+//   return(
+//           <div className='loader'>
+//             <h3>Loading</h3>
+//             <div className="planet"></div>
+//           </div>
+//   );
+// };
 
 
 function App() {
