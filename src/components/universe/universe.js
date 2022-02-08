@@ -9,7 +9,7 @@ parameters.insideColor = '#ff6030'
 parameters.outsideColor = '#1b3984'
 
 export function Universe(props){
-
+// eslint-disable-next-line
     const [positions] = useMemo(() => {
         let positions = []
         for (let j = 0; j < parameters.stars; j++) {

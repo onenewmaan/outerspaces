@@ -47,6 +47,7 @@ export function Galaxy(props){
 
         }
         return [new Float32Array(positions), new Float32Array(colors)]
+        // eslint-disable-next-line
       }, [parameters.count])
 
       const attrib = useRef()
