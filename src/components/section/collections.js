@@ -71,7 +71,6 @@ export function Collections() {
                         <h2 style={{marginTop:'0px'}}>
                             <img src="images/web/empresss.png" width="100px" alt="" style={{margin:'-15px'}} />
                         </h2>
-                        <p style={{fontSize:'13px' ,textAlign:'center', marginTop:'0px'}} >#workinprogress</p>
                   <Timer />
                         <h2 style={{marginTop:'-5px'}}>
                             <p style={{fontSize:'8px' ,textAlign:'center', marginTop:'0px'}} >LOW GAS

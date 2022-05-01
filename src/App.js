@@ -34,9 +34,7 @@ function App() {
           <Collections />
           <Starmap />
           <Spaces />
-          <Team />
           <Look />
-          <Store />
           <Footer />
 
       </div>
